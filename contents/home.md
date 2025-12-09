@@ -1,11 +1,12 @@
 
-[![zhangzy0828](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zhangzy0828)  [![zhangzy0828](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/weixin_43752269?type=blog)
+[![zhangzy0828](https://img.shields.io/badge/zhangzy0828-github-blue?logo=github)](https://github.com/zhangzy0828)  [![zhangzy0828](https://img.shields.io/badge/csdn-orange?logo=c)](https://blog.csdn.net/weixin_43752269?type=blog)
 
 He is currently pursuing his Ph.D. degree at the College of Information Engineering, Northwest A&F University.
 
 #### Contact
 
-Email: zhangzy0828@nwafu.edu.cn
+Email: 
+zhangzy0828@nwafu.edu.cn
 
 #### Education
 Ph.D.,       Agricultural Information Engineering,  Northwest A&F University,       2025 - now. \

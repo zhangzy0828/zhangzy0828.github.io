@@ -1,5 +1,5 @@
 
-- Outstanding Graduate Award (HENAU), 2024.
+- Outstanding Postgraduate Student (HENAU), 2024.
 
 - First-Prize Graduate Academic Scholarship (HENAU), 2024.
 
