@@ -1,6 +1,5 @@
 
-
-[![zhangzy0828](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zhangzy0828) [CSDN博客](https://blog.csdn.net/weixin_43752269?type=blog)
+[![zhangzy0828](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/zhangzy0828)  [![zhangzy0828](https://img.shields.io/badge/csdn-orange)](https://blog.csdn.net/weixin_43752269?type=blog)
 
 He is currently pursuing his Ph.D. degree at the College of Information Engineering, Northwest A&F University.
 
@@ -9,10 +8,10 @@ He is currently pursuing his Ph.D. degree at the College of Information Engineer
 Email: zhangzy0828@nwafu.edu.cn
 
 #### Education
-Ph.D.,       Agricultural Information Engineering,  Northwest A&F University,       2025 -     \
+Ph.D.,       Agricultural Information Engineering,  Northwest A&F University,       2025 - now. \
 M.E.,        Computer Science and Technology,       Henan Agricultural University,  2022 - 2025.\
 B.E.,        Computer Science and Technology,       Henan Agricultural University,  2018 - 2022.
 
 #### Research Interests
-Artificial Intelligence, Federated Learning, LLM, Agriculture.
+Artificial Intelligence, Federated Learning, Large Language Model, Agriculture.
 
