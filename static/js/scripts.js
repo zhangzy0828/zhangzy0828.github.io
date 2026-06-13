@@ -44,6 +44,31 @@ function setupResearchTyping() {
     }, 2400);
 }
 
+function setupClickBurst() {
+    const colors = ['#087f8c', '#b7791f', '#17324d', '#2f9e9d'];
+
+    document.addEventListener('click', (event) => {
+        const burst = document.createElement('div');
+        burst.className = 'click-burst';
+        burst.style.left = event.clientX + 'px';
+        burst.style.top = event.clientY + 'px';
+
+        for (let i = 0; i < 10; i += 1) {
+            const particle = document.createElement('span');
+            const angle = (Math.PI * 2 * i) / 10;
+            const distance = 22 + Math.random() * 28;
+            particle.style.setProperty('--x', Math.cos(angle) * distance + 'px');
+            particle.style.setProperty('--y', Math.sin(angle) * distance + 'px');
+            particle.style.setProperty('--size', 4 + Math.random() * 5 + 'px');
+            particle.style.setProperty('--color', colors[i % colors.length]);
+            burst.appendChild(particle);
+        }
+
+        document.body.appendChild(burst);
+        window.setTimeout(() => burst.remove(), 760);
+    }, { passive: true });
+}
+
 function setupRevealObserver() {
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || !('IntersectionObserver' in window)) {
         return;
@@ -111,6 +136,7 @@ function enhanceRenderedSection(name) {
 window.addEventListener('DOMContentLoaded', event => {
     setupScrollProgress();
     setupResearchTyping();
+    setupClickBurst();
     setupRevealObserver();
     registerRevealItems();
 
